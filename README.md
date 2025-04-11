@@ -12,9 +12,9 @@ While learning backend development, I wanted to understand what happens under th
 - Static file serving (HTML, CSS, JS, images)
 - JSON response utility with `.sendJson()`
 - Lightweight and clean architecture (no hardcoded logic inside the framework)
-
 ## 📂 Project Structure
 
+```text
 /public
 ├── index.html
 ├── style.css
@@ -25,6 +25,7 @@ While learning backend development, I wanted to understand what happens under th
 └── img3.jpg
 miniexpress.js
 index.js
+```
 
 ##  Demo Feature
 
