@@ -2,7 +2,7 @@
 
 A minimal version of Express.js built with raw Node.js — designed to help understand how web frameworks work behind the scenes.
 
-## 🚀 Why I Built This
+## Why I Built This
 
 While learning backend development, I wanted to understand what happens under the hood of frameworks like Express. So I challenged myself to build my own HTTP server with basic routing, file serving, and JSON response capabilities.
 
