@@ -34,10 +34,12 @@ Includes a mini front-end project where clicking a button randomly switches betw
 
 1. Clone the repo:
 
-```bash
+
 git clone https://github.com/yourusername/miniexpress.git
+```bashd
 cd miniexpress
-
+```
+```bashd
 node index.js
-
+```
 http://localhost:3000
