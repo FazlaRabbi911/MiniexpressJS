@@ -1,0 +1,36 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+h1{
+    color: gray ;
+    font-size: 50px ;
+}
+img{
+    width: 500px ;
+    height: 500px ;
+}
+.location{
+    color: white;
+}
+span{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    margin-top: 20px ;
+    padding: 10px 20px ;
+    font-size: 20px ;
+    background-color: white ;
+    color: black ;
+    border: none ;
+    border-radius: 5px ;
+    cursor: pointer ;
+}
